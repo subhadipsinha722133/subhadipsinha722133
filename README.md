@@ -1,4 +1,4 @@
-# READme
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Subhadip Sinha</h1>  
 - Just a Data Enthusiast guy, seeking to learn everyday.
