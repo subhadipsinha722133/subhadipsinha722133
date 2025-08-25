@@ -35,6 +35,11 @@ Welcome to my corner of GitHub! I'm thrilled to have you here.
 I'm a passionate developer and technology enthusiast, always eager to learn, build, and collaborate on impactful projects. My GitHub is a reflection of my journey, growth, and the exciting work I've been part of.
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ Tech Stack
 
