@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipsinha722133&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipsinha722133" /> </p>
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Subhadip Sinha</h1>  
 - Just a Data Enthusiast guy, seeking to learn everyday.
@@ -60,20 +60,14 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 
 ---
 
-## 📫 Let's Connect
-
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website/Blog](#)
-- (Any other links)
-
----
-
 ## 🏆 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadipsinha722133&show_icons=true&locale=en&layout=compact" alt="subhadipsinha722133" /></p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&show_icons=true&hide_title=true&hide_rank=false)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&show_icons=true&locale=en" alt="subhadipsinha722133" /></p>
 ---
+
+
+
 
 ## ✨ Thanks for stopping by!
 
