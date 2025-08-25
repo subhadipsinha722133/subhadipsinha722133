@@ -39,9 +39,9 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 ## 🛠️ Tech Stack
 
 - **Languages:**  
-  - (Your main programming languages here)
+  - Python, HTML, CSS 
 - **Frameworks & Libraries:**  
-  - (Your favorite frameworks/tools)
+  - Scikit-learn, TensorFlow, Keras, NLTK
 - **Tools:**  
   - (DevOps, editors, etc.)
 
