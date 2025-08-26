@@ -2,6 +2,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhadip+Sinha!" />
+  
 </h1>
 - Just a Data Enthusiast guy, seeking to learn everyday.
 I'm currently learning LLM &  GenAI.
@@ -9,7 +10,7 @@ I'm currently learning LLM &  GenAI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-sinha-aa678b280/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhasubhadip@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhasubhadip@gmail.com)  
 
 # 💻 Tech Stack:
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
@@ -19,7 +20,7 @@ I'm currently learning LLM &  GenAI.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <span> <img align="right" width="90"  src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif"/></span>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=nltk&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
