@@ -7,11 +7,14 @@
 </h1>
 
 ## 🌐 Socials:
+
+
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-sinha-aa678b280/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhasubhadip@gmail.com)   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-sinha-aa678b280/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhasubhadip@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/subhadip___sinha__)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhasubhadip@gmail.com)  <span> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/subhadip___sinha__) 
+
+</span>
 
 
 # 💻 Tech Stack:
@@ -48,7 +51,7 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 ---
 
 ## 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span> <img align="right" width="350"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/></span>
+![](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span> <img align="right" width="250"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/></span>
 ![](https://nirzak-streak-stats.vercel.app/?user=subhadipsinha722133&theme=dark&hide_border=false)
 ---
 
