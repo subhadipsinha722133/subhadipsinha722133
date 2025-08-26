@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipsinha722133&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipsinha722133" /> <span> <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/itachi-uchiha-uchiha.gif"/></span></p>   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipsinha722133&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipsinha722133" /> <span> <img align="right" width="195"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/itachi-uchiha-uchiha.gif"/></span></p>   
 
 
 <h1 align="center"><img align="left" width="80"  src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif"/>
