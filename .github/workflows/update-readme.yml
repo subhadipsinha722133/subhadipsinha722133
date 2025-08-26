@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README with a timestamp
+        run: |
+          # This command finds the line with 'Last updated on' and replaces it with the current date and time.
+          # If the line doesn't exist, it adds it to the end of the file.
+          sed -i '/Last updated on/c\Last updated on: **'"$(date)"'**' README.md || echo "Last updated on: **$(date)**" >> README.md
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "docs: auto-update README" || exit 0
+          git push
