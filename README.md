@@ -3,7 +3,6 @@
 
 <h1 align="center"><img align="left" width="80"  src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhadip+Sinha!" />
-  
 </h1>
 
 ## 🌐 Socials:
@@ -67,3 +66,6 @@ Feel free to check out my repositories, star your favorites, or connect with me 
 <!--
 This README is a template. Let's personalize it!
 -->
+
+
+Last updated on:
