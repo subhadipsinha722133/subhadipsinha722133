@@ -51,7 +51,7 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 ---
 
 ## 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span> <img align="right" width="250"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/></span>
+![](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span> <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/></span>
 ![](https://nirzak-streak-stats.vercel.app/?user=subhadipsinha722133&theme=dark&hide_border=false)
 ---
 
