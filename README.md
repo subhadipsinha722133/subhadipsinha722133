@@ -29,6 +29,12 @@
 ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=nltk&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subhadipsinha722133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
 
 # 👋 Hi there! Welcome to my GitHub Profile
 
