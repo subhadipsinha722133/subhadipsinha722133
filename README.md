@@ -89,7 +89,6 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 </tr>
 </table>
 </div>
----
 
 ----
 ## 📈 Contribution Activity
