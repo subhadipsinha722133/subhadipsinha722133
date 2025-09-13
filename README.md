@@ -55,12 +55,31 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 
 ---
 
-## 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span> <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/></span>
-![](https://nirzak-streak-stats.vercel.app/?user=subhadipsinha722133&theme=dark&hide_border=false)
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+![Sanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+</td>
+<td width="50%" , align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipsinha722133&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</td>
+<td>
+   <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
+----
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -83,7 +102,7 @@ This README is a template. Let's personalize it!
 -->
 
 
-Last updated on:08/27/2025
+Last updated on:- 09/13/2025
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
