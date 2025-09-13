@@ -65,18 +65,30 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 ![Sanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 </td>
-<td width="50%" , align="center">
+<td width="70%" , align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipsinha722133&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </td>
-<td>
-   <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/>
-</td>
+
 </tr>
 </table>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td width="70%">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhadipsinha722133&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+</td>
+  <td align="center">
+  <img align="right" width="200"  src="https://github.com/subhadipsinha722133/subhadipsinha722133/blob/main/font-hacker.gif"/>
+  </td>
+
+</tr>
+</table>
+</div>
 ---
 
 ----
