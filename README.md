@@ -79,7 +79,7 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 <table>
 <tr>
 <td width="70%">
-  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhadipsinha722133&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 </td>
   <td align="center">
