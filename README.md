@@ -62,13 +62,11 @@ I'm a passionate developer and technology enthusiast, always eager to learn, bui
 <tr>
 <td width="50%">
 
-![Sanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
+![subhadipsinha722133's Stats](https://github-readme-stats.vercel.app/api?username=subhadipsinha722133&theme=radical&show_icons=true&hide_border=false&count_private=true)
 </td>
 <td width="70%" , align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipsinha722133&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
+![subhadipsinha722133's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipsinha722133&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </td>
 
 </tr>
